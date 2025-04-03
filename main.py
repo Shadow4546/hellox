@@ -27,7 +27,7 @@ from pyrogram.errors.exceptions.bad_request_400 import StickerEmojiInvalid
 from pyrogram.types.messages_and_media import message
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-photologo = 'https://tinypic.host/images/2025/02/07/DeWatermark.ai_1738952933236-1.png'
+photologo = 'https://www.shutterstock.com/image-vector/jai-shree-ram-lord-calligraphy-typography-2404178747'
 photoyt = 'https://tinypic.host/images/2025/03/18/YouTube-Logo.wine.png'
 photocp = 'https://tinypic.host/images/2025/03/28/IMG_20250328_133126.jpg'
 
@@ -116,8 +116,8 @@ import random
 keyboard = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="📞 Contact", url="https://t.me/Nikhil_saini_khe"),
-            InlineKeyboardButton(text="🛠️ Help", url="https://t.me/+3k-1zcJxINYwNGZl"),
+            InlineKeyboardButton(text="📞 Contact", url="https://t.me/shadow4546"),
+            InlineKeyboardButton(text="🛠️ Help", url="https://t.me/shadow4546"),
         ],
     ]
 )
@@ -126,16 +126,17 @@ keyboard = InlineKeyboardMarkup(
 Busy = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="📞 Contact", url="https://t.me/Nikhil_saini_khe"),
-            InlineKeyboardButton(text="🛠️ Help", url="https://t.me/+3k-1zcJxINYwNGZl"),
+            InlineKeyboardButton(text="📞 Contact", url="https://t.me/shadow4546),
+            InlineKeyboardButton(text="🛠️ Help", url="https://t.me/shadow 4546"),
         ],
     ]
 )
 
 # Image URLs for the random image feature
 image_urls = [
-    "https://tinypic.host/images/2025/02/07/IMG_20250207_224444_975.jpg",
-    "https://tinypic.host/images/2025/02/07/DeWatermark.ai_1738952933236-1.png",
+    "https://www.shutterstock.com/image-vector/jai-shree-ram-lord-calligraphy-typography-2404178747",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBGCcWLF07B4lFdyH7DyjXa4tI7ocCGJBWewgcUfUHgbaClfETnuEgdUGA&s=10",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZHMtpUfmdThvE76yVAnkSh7jXnWe6Ki_fvWrMXNgKqmCZFMw-4RXEPcc&s=10",
     # Add more image URLs as needed
 ]
 
